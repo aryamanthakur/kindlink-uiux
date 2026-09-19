@@ -4,6 +4,3 @@ A Charity application designed with a focus on simple navigation, clean visuals,
 
 ## 📱 UI Screens
 
-### Home Screen
-
-![Home Screen](screenshots/home-screen.png)
