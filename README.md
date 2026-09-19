@@ -1,4 +1,4 @@
-# KindLink — UI/UX Design
+# kindLink(2) — UI/UX Design
 
 KindLink is a UI/UX project focused on creating a simple and accessible platform for connecting users with community and nonprofit services.
 
