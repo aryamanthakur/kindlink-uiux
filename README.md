@@ -4,4 +4,4 @@ KindLink is a UI/UX project focused on creating a simple and accessible platform
 
 ## UI Screens
 
-![KindLink UI](screenshots/kindlink (2).png)
+![KindLink UI](screenshots/kindlink(2).png)
