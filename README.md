@@ -1,6 +1,7 @@
-# Kindlink — UI/UX Design
+# KindLink — UI/UX Design
 
-A Charity application designed with a focus on simple navigation, clean visuals, and an intuitive donation and helping experience.
+KindLink is a UI/UX project focused on creating a simple and accessible platform for connecting users with community and nonprofit services.
 
-## 📱 UI Screens
+## UI Screens
 
+![KindLink UI](screenshots/kindlink(2).png)
